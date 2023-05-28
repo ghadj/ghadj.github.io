@@ -1,0 +1,22 @@
+/* Theme */
+
+main {
+	background: #ffffff;
+	color: #1f1f1f;
+}
+
+.icons-social a {
+	color: #1f1f1f;
+}
+
+.icons-social a svg path {
+	fill: #1f1f1f;
+}
+
+a {
+	color: rgb(121, 121, 121);
+}
+
+strong {
+	color: #1f1f1f;
+}
