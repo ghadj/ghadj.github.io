@@ -37,8 +37,8 @@ html {
 /* Custom Styles */
 
 p {
-	margin-top: 20px;
-	margin-bottom: 20px;
+	margin-top: 0.7em;
+	margin-bottom: 0.7em;
 }
 
 a {
@@ -56,7 +56,7 @@ main {
 	justify-content: center;
 	padding: 0 30px;
 	text-align: left;
-	max-width: 800px;
+	max-width: 700px;
 	margin-left: auto;
 	margin-right: auto;
 	text-align: left;
@@ -74,6 +74,17 @@ main>.tagline {
 main>.about {
 	font-size: 1.1rem;
 	line-height: 1.5;
+}
+
+p.about-intro {
+	font-style: italic;
+	font-weight: lighter;
+	margin-bottom:1.5em;
+}
+
+p.desc {
+	margin-top: 1.2em;
+	margin-bottom: 1.2em;
 }
 
 .icons-social {
